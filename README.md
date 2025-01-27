@@ -22,7 +22,7 @@ Clone the Repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-repository/Quiz-Application-with-Timer.git
+git clone [https://github.com/your-repository/Quiz-Application-with-Timer.git](https://github.com/mdshahbazansari/Quiz-Application)
 cd awesome-quiz-app
 Open the Project in Your Browser: Open the index.html file in your browser to start the quiz.
 
