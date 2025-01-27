@@ -2,7 +2,7 @@ Awesome Quiz App
 Overview
 Welcome to the Awesome Quiz App! This app is a fun and interactive way to test your knowledge. It offers multiple questions with a countdown timer and gives you points based on correct answers. The quiz features a clean UI and is responsive to various screen sizes.
 
-#LIVE LINK : 
+#LIVE LINK : https://mdshahbazansari.github.io/Quiz-Application
 
 Features
 Timer: Each question has a 15-second timer.
